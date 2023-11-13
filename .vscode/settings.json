@@ -1,0 +1,10 @@
+{
+  "editor.suggest.localityBonus": true,
+  "terminal.integrated.altClickMovesCursor": true,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorWidth": 0,
+  "vim.cursorStylePerMode.insert": "line",
+  "vim.cursorStylePerMode.normal": "line",
+  "vim.cursorStylePerMode.replace": "line"
+}

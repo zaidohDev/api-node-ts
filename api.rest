@@ -1,0 +1,20 @@
+get http://localhost:8000/subjects 
+
+
+###
+get http://localhost:8000/rooms
+ 
+####
+post http://localhost:8000/rooms
+Content-Type: application/json
+
+{
+  "name":"logaritmos"
+}
+###
+post http://localhost:8000/rooms/3/subject
+Content-Type: application/json
+
+{
+  "subject_id": 2
+}
